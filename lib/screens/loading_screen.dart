@@ -30,7 +30,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
           'lat': _latitude.toString(),
           'lon': _longitude.toString(),
           'units': 'metric',
-          'appid': '26100e93193de1bbeb6180b831770163'
+          'appid': ''
         },
       ),
     );
